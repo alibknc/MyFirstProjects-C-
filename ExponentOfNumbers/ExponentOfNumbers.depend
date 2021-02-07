@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612729852 source:c:\users\muhammedali\documents\github\myfirstprojects-c-\exponentofnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
